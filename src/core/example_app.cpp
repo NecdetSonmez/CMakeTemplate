@@ -1,4 +1,4 @@
-#include "example_lib.h"
+#include "core/example_app.hpp"
 
 int add(int a, int b) {
     return a + b;
