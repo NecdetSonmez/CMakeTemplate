@@ -13,3 +13,5 @@ CMakeUserPresets.json
 
 build/
 cmake-build-*/
+.cache
+scratch
